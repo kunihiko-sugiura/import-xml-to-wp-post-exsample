@@ -1,0 +1,49 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<root>
+  <title>サイトタイトル</title>
+  <description></description>
+  <keyword>keyword1,keyword2</keyword>
+  <article_count>2</article_count>
+  <article>
+    <id>2</id>
+    <open_time>2010/03/17 21:10:32</open_time>
+    <title>記事２</title>
+    <body><![CDATA[<div>記事内容１</div><div>記事内容２</div>]]></body>
+    <photo>1.png,2.png</photo>
+    <open>1</open>
+    <comment_count>2</comment_count>
+     <comment>
+       <article>
+         <open_time>2010/06/30 18:15:30</open_time>
+         <name>名前１</name>
+         <user_id>name1</user_id>
+         <title>タイトル１</title>
+         <body>こんにちは
+こんにちは
+こんにちは          
+         </body>
+         <url>https://www.google.co.jp/</url>
+       </article>
+       <article>
+         <open_time>2010/06/30 18:15:30</open_time>
+         <name>名前2</name>
+         <user_id>name2</user_id>
+         <title>タイトル2</title>
+         <body>こんにちは
+こんにちは
+こんにちは          
+         </body>
+         <url>https://www.google.co.jp/</url>
+       </article>
+     </comment>
+  </article>
+  <article>
+    <id>2</id>
+    <open_time>2010/03/17 22:01:03</open_time>
+    <title>記事２</title>
+    <body><![CDATA[<div>記事内容１</div><div>記事内容２</div>]]></body>
+    <photo></photo>
+    <open>1</open>
+    <comment_count>0</comment_count>
+  </article>
+</root>

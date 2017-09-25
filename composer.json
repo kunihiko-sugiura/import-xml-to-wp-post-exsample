@@ -1,0 +1,13 @@
+{
+    "name": "kuni/import-xml-to-wp-post-exsample",
+    "authors": [
+        {
+            "name": "Kunihiko Sugiura",
+            "email": "kunikunikunikuni@katch.ne.jp"
+        }
+    ],
+    "require": {
+        "vlucas/phpdotenv": "^2.4",
+        "slim/pdo": "^1.10"
+    }
+}
